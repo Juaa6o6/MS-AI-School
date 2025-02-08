@@ -10,4 +10,3 @@
 > * 학습에 사용한 데이터셋은 포함되어있지 않습니다.<br>
 > * 직접 실행하려면 강의자료로 배포된 [PyTorch_excersize/data/](https://github.com/neptun92/PyTorch_excersize/tree/main/data)의 내용물을 'dataset/' 에 넣어야 합니다.<br>
 
-
